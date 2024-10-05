@@ -1,0 +1,16 @@
+F:\ProgrammingAdvices\Course 18 - C# & Database Connectivity\ContactsConsoleApp-PresentationLayer\bin\Debug\ContactsConsoleApp-PresentationLayer.exe.config
+F:\ProgrammingAdvices\Course 18 - C# & Database Connectivity\ContactsConsoleApp-PresentationLayer\bin\Debug\ContactsConsoleApp-PresentationLayer.exe
+F:\ProgrammingAdvices\Course 18 - C# & Database Connectivity\ContactsConsoleApp-PresentationLayer\bin\Debug\ContactsConsoleApp-PresentationLayer.pdb
+F:\ProgrammingAdvices\Course 18 - C# & Database Connectivity\ContactsConsoleApp-PresentationLayer\bin\Debug\ContactsBusinessLayer.dll
+F:\ProgrammingAdvices\Course 18 - C# & Database Connectivity\ContactsConsoleApp-PresentationLayer\bin\Debug\ContactsBusinessLayer.pdb
+F:\ProgrammingAdvices\Course 18 - C# & Database Connectivity\ContactsConsoleApp-PresentationLayer\obj\Debug\ContactsConsoleApp-PresentationLayer.csproj.AssemblyReference.cache
+F:\ProgrammingAdvices\Course 18 - C# & Database Connectivity\ContactsConsoleApp-PresentationLayer\obj\Debug\ContactsConsoleApp-PresentationLayer.csproj.CoreCompileInputs.cache
+F:\ProgrammingAdvices\Course 18 - C# & Database Connectivity\ContactsConsoleApp-PresentationLayer\obj\Debug\ContactsConsoleApp-PresentationLayer.csproj.CopyComplete
+F:\ProgrammingAdvices\Course 18 - C# & Database Connectivity\ContactsConsoleApp-PresentationLayer\obj\Debug\ContactsConsoleApp-PresentationLayer.exe
+F:\ProgrammingAdvices\Course 18 - C# & Database Connectivity\ContactsConsoleApp-PresentationLayer\obj\Debug\ContactsConsoleApp-PresentationLayer.pdb
+F:\ProgrammingAdvices\Course 18 - C# & Database Connectivity\ContactsConsoleApp-PresentationLayer\bin\Debug\ContactsDataAccessLayer.dll
+F:\ProgrammingAdvices\Course 18 - C# & Database Connectivity\ContactsConsoleApp-PresentationLayer\bin\Debug\ContactsDataAccessLayer.pdb
+F:\ProgrammingAdvices\Course 18 - C# & Database Connectivity\ContactsConsoleApp-PresentationLayer\bin\Debug\CountriesBussinessLayer.dll
+F:\ProgrammingAdvices\Course 18 - C# & Database Connectivity\ContactsConsoleApp-PresentationLayer\bin\Debug\CountriesDataAccessLayer.dll
+F:\ProgrammingAdvices\Course 18 - C# & Database Connectivity\ContactsConsoleApp-PresentationLayer\bin\Debug\CountriesBussinessLayer.pdb
+F:\ProgrammingAdvices\Course 18 - C# & Database Connectivity\ContactsConsoleApp-PresentationLayer\bin\Debug\CountriesDataAccessLayer.pdb

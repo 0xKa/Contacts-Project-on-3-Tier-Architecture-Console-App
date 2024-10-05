@@ -1,0 +1,11 @@
+F:\ProgrammingAdvices\Course 18 - C# & Database Connectivity\CountriesBussinessLayer\bin\Debug\CountriesBussinessLayer.dll
+F:\ProgrammingAdvices\Course 18 - C# & Database Connectivity\CountriesBussinessLayer\bin\Debug\CountriesBussinessLayer.pdb
+F:\ProgrammingAdvices\Course 18 - C# & Database Connectivity\CountriesBussinessLayer\bin\Debug\CountriesDataAccessLayer.dll
+F:\ProgrammingAdvices\Course 18 - C# & Database Connectivity\CountriesBussinessLayer\bin\Debug\ContactsDataAccessLayer.dll
+F:\ProgrammingAdvices\Course 18 - C# & Database Connectivity\CountriesBussinessLayer\bin\Debug\CountriesDataAccessLayer.pdb
+F:\ProgrammingAdvices\Course 18 - C# & Database Connectivity\CountriesBussinessLayer\bin\Debug\ContactsDataAccessLayer.pdb
+F:\ProgrammingAdvices\Course 18 - C# & Database Connectivity\CountriesBussinessLayer\obj\Debug\CountriesBussinessLayer.csproj.AssemblyReference.cache
+F:\ProgrammingAdvices\Course 18 - C# & Database Connectivity\CountriesBussinessLayer\obj\Debug\CountriesBussinessLayer.csproj.CoreCompileInputs.cache
+F:\ProgrammingAdvices\Course 18 - C# & Database Connectivity\CountriesBussinessLayer\obj\Debug\CountriesBussinessLayer.csproj.CopyComplete
+F:\ProgrammingAdvices\Course 18 - C# & Database Connectivity\CountriesBussinessLayer\obj\Debug\CountriesBussinessLayer.dll
+F:\ProgrammingAdvices\Course 18 - C# & Database Connectivity\CountriesBussinessLayer\obj\Debug\CountriesBussinessLayer.pdb
