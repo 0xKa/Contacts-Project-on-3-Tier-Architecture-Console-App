@@ -1,0 +1,6 @@
+F:\ProgrammingAdvices\Course 18 - C# & Database Connectivity\ContactsDataAccessLayer\bin\Debug\ContactsDataAccessLayer.dll
+F:\ProgrammingAdvices\Course 18 - C# & Database Connectivity\ContactsDataAccessLayer\bin\Debug\ContactsDataAccessLayer.pdb
+F:\ProgrammingAdvices\Course 18 - C# & Database Connectivity\ContactsDataAccessLayer\obj\Debug\ContactsDataAccessLayer.csproj.AssemblyReference.cache
+F:\ProgrammingAdvices\Course 18 - C# & Database Connectivity\ContactsDataAccessLayer\obj\Debug\ContactsDataAccessLayer.csproj.CoreCompileInputs.cache
+F:\ProgrammingAdvices\Course 18 - C# & Database Connectivity\ContactsDataAccessLayer\obj\Debug\ContactsDataAccessLayer.dll
+F:\ProgrammingAdvices\Course 18 - C# & Database Connectivity\ContactsDataAccessLayer\obj\Debug\ContactsDataAccessLayer.pdb

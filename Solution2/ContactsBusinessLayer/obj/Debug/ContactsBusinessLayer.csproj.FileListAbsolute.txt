@@ -1,0 +1,9 @@
+F:\ProgrammingAdvices\Course 18 - C# & Database Connectivity\ContactsBusinessLayer\bin\Debug\ContactsBusinessLayer.dll
+F:\ProgrammingAdvices\Course 18 - C# & Database Connectivity\ContactsBusinessLayer\bin\Debug\ContactsBusinessLayer.pdb
+F:\ProgrammingAdvices\Course 18 - C# & Database Connectivity\ContactsBusinessLayer\bin\Debug\ContactsDataAccessLayer.dll
+F:\ProgrammingAdvices\Course 18 - C# & Database Connectivity\ContactsBusinessLayer\bin\Debug\ContactsDataAccessLayer.pdb
+F:\ProgrammingAdvices\Course 18 - C# & Database Connectivity\ContactsBusinessLayer\obj\Debug\ContactsBusinessLayer.csproj.AssemblyReference.cache
+F:\ProgrammingAdvices\Course 18 - C# & Database Connectivity\ContactsBusinessLayer\obj\Debug\ContactsBusinessLayer.csproj.CoreCompileInputs.cache
+F:\ProgrammingAdvices\Course 18 - C# & Database Connectivity\ContactsBusinessLayer\obj\Debug\ContactsBusinessLayer.csproj.CopyComplete
+F:\ProgrammingAdvices\Course 18 - C# & Database Connectivity\ContactsBusinessLayer\obj\Debug\ContactsBusinessLayer.dll
+F:\ProgrammingAdvices\Course 18 - C# & Database Connectivity\ContactsBusinessLayer\obj\Debug\ContactsBusinessLayer.pdb
